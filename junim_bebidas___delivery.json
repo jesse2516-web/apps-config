@@ -1,15 +1,15 @@
 {
   "appName": "Junim Bebidas & Delivery",
   "packageId": "com.empresa.meuapp",
-  "primaryColor": "#2563eb",
-  "bgColor": "#0f172a",
-  "bannerUrl": "",
-  "bannerPreviewSrc": "",
+  "primaryColor": "#db1f32",
+  "bgColor": "#0c0d0d",
+  "bannerUrl": "assets/banner.png",
+  "bannerPreviewSrc": "file:///C:/Users/JESSE/Desktop/CriadorAppsStudio/mobile-engine/www/assets/banner.png",
   "appDescription": "Os melhores produtos e atendimento rápido direto no seu celular.",
   "businessHours": "Seg a Dom: 18:00 às 23:30",
-  "businessAddress": "Av. Principal, 123 - Centro",
-  "mapsUrl": "https://maps.google.com/?q=-16.6869,-49.2648",
-  "whatsappNumber": "5562999999999",
+  "businessAddress": "Av. Contorno, Q. GB-7, L. 19, CASA 03 - Jardim Colorado, Goiânia - GO, 74474-048",
+  "mapsUrl": "https://maps.app.goo.gl/zkHvK9DWjo1cEmEK9",
+  "whatsappNumber": "062995673134",
   "whatsappMessage": "Olá! Vim pelo aplicativo e gostaria de atendimento.",
   "operationMode": "hybrid",
   "remoteUrl": "https://raw.githubusercontent.com/jesse2516-web/apps-config/main/junim_bebidas___delivery.json",
@@ -22,8 +22,8 @@
     },
     "delivery": {
       "storeName": "Junim Bebidas",
-      "deliveryFee": "R$ 5,00",
-      "itemsText": "X-Bacon Artesanal - R$ 28,00\nPizza Calabresa G - R$ 45,00\nRefrigerante 2L - R$ 12,00"
+      "deliveryFee": "",
+      "itemsText": "Logo colocarei aqui Preços\nboa noite"
     },
     "game": {
       "portalTitle": "Arcade Retro Offline",
