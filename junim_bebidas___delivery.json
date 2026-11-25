@@ -1,0 +1,39 @@
+{
+  "appName": "Junim Bebidas & Delivery",
+  "packageId": "com.empresa.meuapp",
+  "primaryColor": "#2563eb",
+  "bgColor": "#0f172a",
+  "bannerUrl": "",
+  "bannerPreviewSrc": "",
+  "appDescription": "Os melhores produtos e atendimento rápido direto no seu celular.",
+  "businessHours": "Seg a Dom: 18:00 às 23:30",
+  "businessAddress": "Av. Principal, 123 - Centro",
+  "mapsUrl": "https://maps.google.com/?q=-16.6869,-49.2648",
+  "whatsappNumber": "5562999999999",
+  "whatsappMessage": "Olá! Vim pelo aplicativo e gostaria de atendimento.",
+  "operationMode": "hybrid",
+  "remoteUrl": "https://raw.githubusercontent.com/jesse2516-web/apps-config/main/junim_bebidas___delivery.json",
+  "niche": "delivery",
+  "modules": {
+    "radio": {
+      "stationName": "Rádio Studio Hits FM",
+      "streamUrl": "https://stream.zeno.fm/exemplo",
+      "genre": "Pop / Rock / Ao Vivo"
+    },
+    "delivery": {
+      "storeName": "Junim Bebidas",
+      "deliveryFee": "R$ 5,00",
+      "itemsText": "X-Bacon Artesanal - R$ 28,00\nPizza Calabresa G - R$ 45,00\nRefrigerante 2L - R$ 12,00"
+    },
+    "game": {
+      "portalTitle": "Arcade Retro Offline",
+      "gameUrl": "https://exemplo.com/jogo-html5/index.html",
+      "orientation": "landscape"
+    },
+    "custom": {
+      "welcomeTitle": "Bem-vindo ao Nosso App",
+      "actionButtonText": "Acessar Portal",
+      "actionButtonUrl": "https://seusite.com.br"
+    }
+  }
+}
