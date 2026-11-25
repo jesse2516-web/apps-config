@@ -14,7 +14,7 @@
   "operationMode": "hybrid",
   "remoteUrl": "https://raw.githubusercontent.com/jesse2516-web/apps-config/main/junim_bebidas___delivery.json",
   "niche": "delivery",
-  "apkVersion": 1,
+  "apkVersion": 2,
   "apkDownloadUrl": "",
   "apkReleaseNotes": "Nova versão disponível com melhorias! Toque para atualizar.",
   "modules": {
