@@ -23,14 +23,6 @@
       "content": "Confira nossas ofertas especiais da semana direto pelo aplicativo!",
       "buttonText": "Pedir Promoção",
       "buttonUrl": ""
-    },
-    {
-      "id": "pg_1795649797530",
-      "icon": "⭐",
-      "title": "Novidades",
-      "content": "Escreva aqui as informações desta página.",
-      "buttonText": "",
-      "buttonUrl": ""
     }
   ],
   "apkVersion": 2,
@@ -45,7 +37,16 @@
     "delivery": {
       "storeName": "Junim Bebidas",
       "deliveryFee": "",
-      "itemsText": "VE SE FICO TOP"
+      "itemsText": "",
+      "products": [
+        {
+          "id": "p_1795650062659",
+          "name": "Novo Produto",
+          "price": "15,00",
+          "image": "",
+          "previewSrc": ""
+        }
+      ]
     },
     "game": {
       "portalTitle": "Arcade Retro Offline",
