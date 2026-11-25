@@ -14,6 +14,25 @@
   "operationMode": "hybrid",
   "remoteUrl": "https://raw.githubusercontent.com/jesse2516-web/apps-config/main/junim_bebidas___delivery.json",
   "niche": "delivery",
+  "enableSettingsTab": true,
+  "extraPages": [
+    {
+      "id": "pg_promo",
+      "icon": "🔥",
+      "title": "Promoções",
+      "content": "Confira nossas ofertas especiais da semana direto pelo aplicativo!",
+      "buttonText": "Pedir Promoção",
+      "buttonUrl": ""
+    },
+    {
+      "id": "pg_1795649797530",
+      "icon": "⭐",
+      "title": "Novidades",
+      "content": "Escreva aqui as informações desta página.",
+      "buttonText": "",
+      "buttonUrl": ""
+    }
+  ],
   "apkVersion": 2,
   "apkDownloadUrl": "",
   "apkReleaseNotes": "Nova versão disponível com melhorias! Toque para atualizar.",
@@ -26,7 +45,7 @@
     "delivery": {
       "storeName": "Junim Bebidas",
       "deliveryFee": "",
-      "itemsText": "E NOIS\n"
+      "itemsText": "VE SE FICO TOP"
     },
     "game": {
       "portalTitle": "Arcade Retro Offline",
