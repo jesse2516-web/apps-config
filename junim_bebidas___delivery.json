@@ -14,6 +14,9 @@
   "operationMode": "hybrid",
   "remoteUrl": "https://raw.githubusercontent.com/jesse2516-web/apps-config/main/junim_bebidas___delivery.json",
   "niche": "delivery",
+  "apkVersion": 1,
+  "apkDownloadUrl": "",
+  "apkReleaseNotes": "Nova versão disponível com melhorias! Toque para atualizar.",
   "modules": {
     "radio": {
       "stationName": "Rádio Studio Hits FM",
@@ -23,7 +26,7 @@
     "delivery": {
       "storeName": "Junim Bebidas",
       "deliveryFee": "",
-      "itemsText": "TESTE PARA VER "
+      "itemsText": "Boa noite "
     },
     "game": {
       "portalTitle": "Arcade Retro Offline",
