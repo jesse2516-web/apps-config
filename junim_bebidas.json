@@ -1,0 +1,71 @@
+{
+  "appName": "Junim Bebidas",
+  "packageId": "com.empresa.meuapp",
+  "primaryColor": "#db1f32",
+  "bgColor": "#0c0d0d",
+  "bannerUrl": "assets/banner.png",
+  "bannerPreviewSrc": "file:///C:/Users/JESSE/Desktop/CriadorAppsStudio/mobile-engine/www/assets/banner.png",
+  "clientNoticeStyle": "info",
+  "clientNoticeText": "QUE VC ACHO JUNIM",
+  "appDescription": "Os melhores produtos e atendimento rápido direto no seu celular.",
+  "businessHours": "Seg a Dom: 18:00 às 23:30",
+  "businessAddress": "Av. Contorno, Q. GB-7, L. 19, CASA 03 - Jardim Colorado, Goiânia - GO, 74474-048",
+  "mapsUrl": "https://maps.app.goo.gl/zkHvK9DWjo1cEmEK9",
+  "whatsappNumber": "062995673134",
+  "whatsappMessage": "Olá! Vim pelo aplicativo e gostaria de atendimento.",
+  "operationMode": "hybrid",
+  "remoteUrl": "https://raw.githubusercontent.com/jesse2516-web/apps-config/main/junim_bebidas.json",
+  "niche": "delivery",
+  "adminUser": "junior ",
+  "adminPass": "Junim@0102",
+  "enableSettingsTab": true,
+  "extraPages": [
+    {
+      "id": "pg_promo",
+      "icon": "🔥",
+      "title": "Promoções",
+      "content": "Confira nossas ofertas especiais da semana direto pelo aplicativo!",
+      "buttonText": "Pedir Promoção",
+      "buttonUrl": ""
+    }
+  ],
+  "apkVersion": 2,
+  "apkDownloadUrl": "",
+  "apkReleaseNotes": "Nova versão disponível com melhorias! Toque para atualizar.",
+  "modules": {
+    "radio": {
+      "stationName": "Rádio Studio Hits FM",
+      "streamUrl": "https://stream.zeno.fm/exemplo",
+      "genre": "Pop / Rock / Ao Vivo"
+    },
+    "delivery": {
+      "storeName": "Junim Bebidas",
+      "deliveryFee": "DEPENDE DA LOCALIZAÇAO",
+      "itemsText": "",
+      "products": [
+        {
+          "id": "p_1795650062659",
+          "name": "Novo Produto",
+          "price": "15,00",
+          "image": "",
+          "previewSrc": ""
+        }
+      ],
+      "storeStatusMode": "auto",
+      "openTime": "09:00",
+      "closeTime": "23:00",
+      "closedMessage": "Estamos fechados no momento. Volte no nosso horário de atendimento!",
+      "coupons": []
+    },
+    "game": {
+      "portalTitle": "Arcade Retro Offline",
+      "gameUrl": "https://exemplo.com/jogo-html5/index.html",
+      "orientation": "landscape"
+    },
+    "custom": {
+      "welcomeTitle": "Bem-vindo ao Nosso App",
+      "actionButtonText": "Acessar Portal",
+      "actionButtonUrl": "https://seusite.com.br"
+    }
+  }
+}
