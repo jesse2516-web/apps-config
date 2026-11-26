@@ -16,6 +16,8 @@
   "operationMode": "hybrid",
   "remoteUrl": "https://raw.githubusercontent.com/jesse2516-web/apps-config/main/junim_bebidas___delivery.json",
   "niche": "delivery",
+  "adminUser": "junior ",
+  "adminPass": "Junim@0102",
   "enableSettingsTab": true,
   "extraPages": [
     {
@@ -38,12 +40,20 @@
     },
     "delivery": {
       "storeName": "Junim Bebidas",
-      "deliveryFee": "5,0",
+      "deliveryFee": "DEPENDE DA LOCALIZAÇAO",
       "itemsText": "",
-      "products": [],
+      "products": [
+        {
+          "id": "p_1795650062659",
+          "name": "Novo Produto",
+          "price": "15,00",
+          "image": "",
+          "previewSrc": ""
+        }
+      ],
       "storeStatusMode": "auto",
-      "openTime": "09:00",
-      "closeTime": "23:00",
+      "openTime": "18:00",
+      "closeTime": "23:30",
       "closedMessage": "Estamos fechados no momento. Volte no nosso horário de atendimento!"
     },
     "game": {
