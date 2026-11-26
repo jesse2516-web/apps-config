@@ -16,7 +16,7 @@
   "operationMode": "hybrid",
   "remoteUrl": "https://raw.githubusercontent.com/jesse2516-web/apps-config/main/junim_bebidas___delivery.json",
   "niche": "delivery",
-  "adminUser": "junior ",
+  "adminUser": "junior",
   "adminPass": "Junim@0102",
   "enableSettingsTab": true,
   "extraPages": [
