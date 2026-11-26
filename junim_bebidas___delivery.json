@@ -54,7 +54,8 @@
       "storeStatusMode": "auto",
       "openTime": "09:00",
       "closeTime": "23:00",
-      "closedMessage": "Estamos fechados no momento. Volte no nosso horário de atendimento!"
+      "closedMessage": "Estamos fechados no momento. Volte no nosso horário de atendimento!",
+      "coupons": []
     },
     "game": {
       "portalTitle": "Arcade Retro Offline",
