@@ -6,7 +6,7 @@
   "bannerUrl": "assets/banner.png",
   "bannerPreviewSrc": "file:///C:/Users/JESSE/Desktop/CriadorAppsStudio/mobile-engine/www/assets/banner.png",
   "clientNoticeStyle": "info",
-  "clientNoticeText": "QUE VC ACHO JUNIM",
+  "clientNoticeText": "",
   "appDescription": "Os melhores produtos e atendimento rápido direto no seu celular.",
   "businessHours": "Seg a Dom: 18:00 às 23:30",
   "businessAddress": "Av. Contorno, Q. GB-7, L. 19, CASA 03 - Jardim Colorado, Goiânia - GO, 74474-048",
@@ -40,7 +40,7 @@
     },
     "delivery": {
       "storeName": "Junim Bebidas",
-      "deliveryFee": "DEPENDE DA LOCALIZAÇAO",
+      "deliveryFee": "",
       "itemsText": "",
       "products": [
         {
