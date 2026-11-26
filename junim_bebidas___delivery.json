@@ -6,7 +6,7 @@
   "bannerUrl": "assets/banner.png",
   "bannerPreviewSrc": "file:///C:/Users/JESSE/Desktop/CriadorAppsStudio/mobile-engine/www/assets/banner.png",
   "clientNoticeStyle": "info",
-  "clientNoticeText": "E AI JUNIM QUE ACHO ",
+  "clientNoticeText": "QUE VC ACHO JUNIM",
   "appDescription": "Os melhores produtos e atendimento rápido direto no seu celular.",
   "businessHours": "Seg a Dom: 18:00 às 23:30",
   "businessAddress": "Av. Contorno, Q. GB-7, L. 19, CASA 03 - Jardim Colorado, Goiânia - GO, 74474-048",
@@ -38,12 +38,12 @@
     },
     "delivery": {
       "storeName": "Junim Bebidas",
-      "deliveryFee": "DEPENDE LOCALIZAÇAO",
+      "deliveryFee": "DEPENDE DA LOCALIZAÇAO",
       "itemsText": "",
       "products": [
         {
-          "id": "p_1795651982870",
-          "name": "COPAO WISK",
+          "id": "p_1795650062659",
+          "name": "Novo Produto",
           "price": "15,00",
           "image": "",
           "previewSrc": ""
