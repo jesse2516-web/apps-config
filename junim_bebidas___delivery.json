@@ -43,8 +43,8 @@
           "id": "p_1795650062659",
           "name": "Novo Produto",
           "price": "15,00",
-          "image": "",
-          "previewSrc": ""
+          "image": "assets/prod_1795650613489.jpg",
+          "previewSrc": "file:///C:/Users/JESSE/Desktop/CriadorAppsStudio/mobile-engine/www/assets/prod_1795650613489.jpg"
         }
       ],
       "storeStatusMode": "auto",
