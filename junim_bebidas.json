@@ -40,7 +40,7 @@
     },
     "delivery": {
       "storeName": "Junim Bebidas",
-      "deliveryFee": "",
+      "deliveryFee": "5,0",
       "itemsText": "",
       "products": [
         {
