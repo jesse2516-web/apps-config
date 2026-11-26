@@ -38,17 +38,9 @@
     },
     "delivery": {
       "storeName": "Junim Bebidas",
-      "deliveryFee": "DEPENDE DA LOCALIZAÇAO",
+      "deliveryFee": "5,0",
       "itemsText": "",
-      "products": [
-        {
-          "id": "p_1795650062659",
-          "name": "Novo Produto",
-          "price": "15,00",
-          "image": "",
-          "previewSrc": ""
-        }
-      ],
+      "products": [],
       "storeStatusMode": "auto",
       "openTime": "09:00",
       "closeTime": "23:00",
