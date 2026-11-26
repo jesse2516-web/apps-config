@@ -52,8 +52,8 @@
         }
       ],
       "storeStatusMode": "auto",
-      "openTime": "18:00",
-      "closeTime": "23:30",
+      "openTime": "09:00",
+      "closeTime": "23:00",
       "closedMessage": "Estamos fechados no momento. Volte no nosso horário de atendimento!"
     },
     "game": {
